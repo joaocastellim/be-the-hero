@@ -81,11 +81,11 @@ Esta aplicação foi desenolvida com as tecnologias abaixo:
 - Rode `npx sequelize-cli db:migrate` para executar as migrations;
 - Rode `npm start` para inciar;
 
-### Web
+### Frontend
 
 _ps: Antes de executar, lembre-se de iniciar o backend deste projeto_
 
-- Na pasta **backend** rode `npm install` para instalar as dependências;
+- Na pasta **frontend** rode `npm install` para instalar as dependências;
 - Rode `npm start` para inciar;
 
 ### Mobile
