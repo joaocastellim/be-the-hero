@@ -8,25 +8,25 @@
 A [Semana OmniStack](https://rocketseat.com.br/week/inscricao/11.0) é um evento 100% online e gratuito, onde a [Rocketseat](https://github.com/rocketseat) junto com seu CTO [Diego Fernandes](https://github.com/diego3g) e mais toda a comunidade, desenvolvem uma aplicação completa, desde o banco de dados, back-end, até o front-end web e mobile, tudo isso utilizando a stack JavaScript, ou seja, Node.js no back-end, ReactJS para web e React Native para mobile.
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EliasGcf/be-the-hero">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joaocastellim/be-the-hero">
   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EliasGcf/be-the-hero">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/joaocastellim/be-the-hero">
   
-  <a href="https://www.codacy.com/manual/EliasGcf/be-the-hero?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=EliasGcf/be-the-hero&amp;utm_campaign=Badge_Grade">
+  <a href="https://www.codacy.com/manual/joaocastellim/be-the-hero?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=joaocastellim/be-the-hero&amp;utm_campaign=Badge_Grade">
     <img src="https://api.codacy.com/project/badge/Grade/b24c3d160250493fbd4dd26acd9a7ad3"/>
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/be-the-hero">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/joaocastellim/be-the-hero">
   
-  <a href="https://github.com/EliasGcf/be-the-hero/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliasGcf/be-the-hero">
+  <a href="https://github.com/joaocastellim/be-the-hero/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/joaocastellim/be-the-hero">
   </a>
   
-  <a href="https://github.com/EliasGcf/be-the-hero/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/EliasGcf/be-the-hero">
+  <a href="https://github.com/joaocastellim/be-the-hero/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/joaocastellim/be-the-hero">
   </a>
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/be-the-hero">
+  <img alt="GitHub" src="https://img.shields.io/github/license/joaocastellim/be-the-hero">
 </p>
 
 <img alt="Layout" src="https://res.cloudinary.com/eliasgcf/image/upload/v1585345367/be-the-hero/mockup_uf7cxb.png">
